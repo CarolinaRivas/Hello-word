@@ -1,9 +1,9 @@
--soy vane y toco todo menos una linea
+-soy vane y toco todo menos una linea: listo vane :)
 
-Hola soy el archivo 1 -pup
+Hola soy el archivo 1
 probando 
-probando :D -pup
---- -pup
-hice una modificacion -pup
+probando :D
+--- 
+hice una modificacion
 
 jiji :P mergeaa los cambios caro

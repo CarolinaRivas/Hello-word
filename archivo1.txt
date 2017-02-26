@@ -1,5 +1,9 @@
-Hola soy el archivo 1
-probando
-probando :D
----
-hice una modificacion
+-soy vane y toco todo menos una linea
+
+Hola soy el archivo 1 -pup
+probando 
+probando :D -pup
+--- -pup
+hice una modificacion -pup
+
+jiji :P mergeaa los cambios caro

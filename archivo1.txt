@@ -1,5 +1,0 @@
-Hola soy el archivo 1
-probando
-probando :D
----
-hice una modificacion
